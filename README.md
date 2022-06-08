@@ -7,5 +7,5 @@ To install pyshorteners use "pip install pyshorteners".
 
 Go to url_shortener.py. Here I am using pyshorteners library and I am using Tinyurl.com API.
 
-You can refer the dicumentation in the below link:
+You can refer the documentation in the below link:
 https://pyshorteners.readthedocs.io/en/latest/
