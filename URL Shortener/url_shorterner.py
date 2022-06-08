@@ -2,4 +2,4 @@ import pyshorteners
 
 url = pyshorteners.Shortener()
 
-print(url.tinyurl.short("www.google.com"))
+print(url.tinyurl.short("www.github.com/incredibe"))
